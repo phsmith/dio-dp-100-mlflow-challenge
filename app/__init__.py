@@ -1,0 +1,2 @@
+"""Ice cream sales package."""
+
