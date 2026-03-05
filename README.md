@@ -2,6 +2,8 @@
 
 This project develops a machine learning model to predict ice cream sales based on temperature. It serves as a practical demonstration of a complete MLOps workflow, including data generation, model training, experiment tracking with MLflow, and deployment as a REST API.
 
+![Temperature vs Ice Cream Sales Image](./temperature_vs_sales.png)
+
 ## Project Structure
 
 ```text
